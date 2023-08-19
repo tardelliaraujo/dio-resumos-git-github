@@ -12,7 +12,8 @@ Repositórios para armazenar resumos git e github do curso de versionamento da D
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no Repositório local| [resumo]()|
+| Aula 01| [resumo]()|
+| Aula 02 | [resumo]() |
 
 ````
 git init
